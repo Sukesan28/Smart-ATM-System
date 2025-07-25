@@ -43,10 +43,6 @@ Designed and developed a **Smart ATM System** using **Java** and integrated it w
 
 ---
 
-## 📷 Screenshots (optional)
-> *(Add images or terminal outputs here if available)*
-
----
 
 ## 📂 Folder Structure (optional)
 ```bash
